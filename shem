@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Shem Tech</title>
+  <style>
+      body {
+          background-color: black;
+          color: red;
+      }
+      .container {
+          padding: 20px;
+          text-align: left;
+      }
+      p {
+          margin-bottom: 1em; /* Saut d'une ligne entre les éléments */
+          color: red; /* Texte en rouge */
+      }
+      h1 {
+          color: blue; /* Titre en bleu */
+      }
+      h2 {
+          font-size: 16px; /* Taille de police plus petite pour le sous-titre */
+      }
+      strong {
+          font-size: 20px; /* Taille de police plus grande pour les éléments en gras */
+          font-weight: bold; /* Mettre en gras */
+      }
+      a {
+          color: blue; /* Liens en bleu */
+          text-decoration: none; /* Enlever la décoration du lien (soulignement) */
+          font-weight: bold; /* Mettre en gras pour les liens */
+          font-style: normal; /* Enlever l'italique des :// dans les liens */
+      }
+      .special {
+          font-size: 16px; /* Taille de police légèrement plus petite pour les éléments spéciaux */
+          font-weight: normal; /* Enlever le gras pour les éléments spéciaux */
+      }
+  </style>
+</head>
+<body>
+    <h1 style="text-align: center;">Site créé par Shem</h1>
+    <h2 style="text-align: center;">:)</h2>
+    <div class="container">
+        <p><strong>Tools</strong><br>
+        1. <a href="https://osintframework.com" target="_blank">https://osintframework.com</a><br>
+        2. <a href="https://intelx.io/tools" target="_blank">https://intelx.io/tools</a><br>
+        3. <a href="https://pagesjaunes.fr" target="_blank">https://pagesjaunes.fr</a><br><br>
+        <strong>Nom/Prénom/Pseudo</strong><br>
+        1. <a href="https://www.idcrawl.com" target="_blank">https://www.idcrawl.com</a> (Tout)<br>
+        2. <a href="https://instantusername.com" target="_blank">https://instantusername.com</a> (Pseudo)<br>
+        3. <a href="https://whatsmyname.app" target="_blank">https://whatsmyname.app</a> (Pseudo)<br>
+        4. <a href="https://webmii.com" target="_blank">https://webmii.com</a> (Nom/Prénom)<br>
+        5. <a href="https://pagesjaunes.fr" target="_blank">https://pagesjaunes.fr</a> (Nom/Prénom)<br><br>
+        <strong>Email/Numéro</strong><br>
+        1. <a href="https://epieos.com" target="_blank">https://epieos.com</a> (Tout)<br>
+        2. <a href="https://osint.industries" target="_blank">https://osint.industries</a> (Email)<br>
+        3. <a href="https://www.idcrawl.com/phone" target="_blank">https://www.idcrawl.com/phone</a> (Numéro)<br>
+        4. <a href="https://pagesjaunes.fr" target="_blank">https://pagesjaunes.fr</a> (Numéro)<br>
+        5. <a href="https://www.truecaller.com" target="_blank">https://www.truecaller.com</a> (Numéro)<br><br>
+        <strong>Familles</strong><br>
+        1. <a href="https://fdesouche.com" target="_blank">https://fdesouche.com</a><br>
+        2. <a href="https://pagesjaunes.fr" target="_blank">https://pagesjaunes.fr</a><br>
+        3. <a href="https://annuaire.118000.fr" target="_blank">https://annuaire.118000.fr</a><br>
+        4. <a href="https://avis-deces.linternaute.com" target="_blank">https://avis-deces.linternaute.com</a><br>
+        5. Nom de famille + ville (etc) sur Google<br><br>
+        <!-- Répétez le processus pour chaque lien -->
+        <!-- ... -->
+        <strong>Images</strong><br>
+        1. Pinterest<br>
+        2. Google Images<br>
+        3. <a href="https://pimeyes.com" target="_blank">https://pimeyes.com</a><br>
+        4. <a href="https://facecheck.id" target="_blank">https://facecheck.id</a><br><br>
+        <strong>IP Infos</strong><br>
+        1. <a href="https://ipinfo.io" target="_blank">https://ipinfo.io</a><br>
+        2. <a href="https://fr.infobyip.com" target="_blank">https://fr.infobyip.com</a><br>
+        3. <a href="https://ip-api.com" target="_blank">https://ip-api.com</a><br><br>
+        <strong>IP Grabber</strong><br>
+        1. <a href="https://iplogger.org" target="_blank">https://iplogger.org</a><br>
+        2. <a href="https://grabify.link" target="_blank">https://grabify.link</a><br><br>
+        <strong>DDoS</strong><br>
+        1. <a href="https://stressthem.se" target="_blank">https://stressthem.se</a> (Recommandé)<br>
+        2. <a href="https://stresser.su" target="_blank">https://stresser.su</a><br><br>
+        <strong>VPN Gratuit</strong><br>
+        1. <a href="#" target="_blank">Proton VPN</a><br>
+        2. <a href="#" target="_blank">TunnelBear</a><br><br> 
+                 <strong>Tech Scam</strong><br>
+          1. <a href="https://pastebin.com/raw/guucfcBP" target="_blank">https://pastebin.com/raw/guucfcBP</a> (Controler un téléphone)<br>
+          2. <a href="https://pastebin.com/raw/cvq9JEgr" target="_blank">https://pastebin.com/raw/cvq9JEgr</a> (Tech McDo)<br>
+          3. <a href="https://pastebin.com/raw/7p4x8g2A" target="_blank">https://pastebin.com/raw/7p4x8g2A</a> (Tech Scam Num)<br><br>
+          <span class="special"><strong style="color: #660700;">Discord</strong></span><br>
+
+          1. <a href="https://base64encode.org" target="_blank">https://base64encode.org</a><br>
+          - Début du token discord avec l’ID<br>
+          2. <a href="https://pastebin.com/raw/9aFUJkjV" target="_blank">https://pastebin.com/raw/9aFUJkjV</a><br>
+          - Nitro déjà récupéré<br>
+          <span class="special"><strong style="color: #660700;">Instagram</strong></span><br>
+          - <a href="https://storiesig.info" target="_blank">https://storiesig.info</a><br>
+          - Espionner compte insta en anonyme<br>
+          <span class="special"><strong style="color: #660700;">VirusTotal</strong></span><br>
+          - <a href="https://www.virustotal.com" target="_blank">https://www.virustotal.com</a><br>
+          - Recherche de logiciel malveillant<br>
+          <span class="special"><strong style="color: #660700;">URL Scan</strong></span><br>
+          - <a href="https://urlscan.io" target="_blank">https://urlscan.io</a><br>
+          - Informations sur un site web<br><br>
+      </p>
+    </div>
+</body>
+</html>
